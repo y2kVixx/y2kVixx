@@ -124,7 +124,7 @@
 
 ## 🔖 Anime List
 🏷️ **Favorites genres:** Comedy, Romance, Fantasy, Action  
-🎥 + 8.000K minutes watched and read &nbsp;  
+🎥 + 10.000K minutes watched and read &nbsp;  
 
 
  <h1> ୨🖳୧ ⋅ Favorites Animes </h1>    <!--   📽   -->
