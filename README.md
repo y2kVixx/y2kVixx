@@ -104,10 +104,6 @@
 
 
 <p align="center">
-<!-- <img src="https://i.pinimg.com/1200x/cd/8b/28/cd8b28c26fd22462d2fa7bd7e7b9b9bd.jpg" width="600" height="100" alt=" "> -->
-<!-- <img src="https://i.pinimg.com/1200x/c8/4f/17/c84f17732ebf8811454aea6a3aa1ca1e.jpg" width="600" height="175" alt=" ">  -->
-<!-- <img src="https://i.pinimg.com/736x/5f/cb/48/5fcb487a346e3805d5997a2838159097.jpg" width="600" height="175" alt=" "> -->
-<!-- <img src="https://w.wallhaven.cc/full/vp/wallhaven-vpoerm.png" width="600" height="175" alt=" "> -->
 <img src="https://i.pinimg.com/originals/b1/89/92/b189922eab130325a3995bfa1a3021eb.gif" width="600" height="175" alt=" ">
 <p>
 
@@ -579,7 +575,6 @@
 
 <p align="center">
    
-<!--  <img src="https://i.pinimg.com/1200x/44/93/68/449368c66290049d701a5e5247d95ba2.jpg" width="600" height="175" alt=" "> -->
  <img src="https://i.pinimg.com/736x/d3/d8/7b/d3d87b7ee43338205320f0b8f205a295.jpg" width="600" height="175" alt=" "> 
 <p>
 
