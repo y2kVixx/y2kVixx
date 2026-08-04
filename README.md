@@ -140,7 +140,7 @@
 
    
 <tr>
-    <td><img src="./img/fv_animes/evangelion.jpg" width="60" height="80"></td>
+    <td><img src="./img/fv_animes/evangelion.jpg" width="60" height="75"></td>
     <td>
       <strong>Evangelion</strong><br>
       🎥 Anime / Mangá &nbsp; 📅 1995 &nbsp; 👍 83% &nbsp; 🕐 26 episodes + 5 Movie<br>
@@ -156,7 +156,7 @@
 
 
 <tr>
-    <td><img src="./img/fv_animes/chainsaw-man.jpg" width="60" height="80"></td>
+    <td><img src="./img/fv_animes/chainsaw-man.jpg" width="60" height="75"></td>
     <td>
       <strong>Chainsaw Man</strong><br>
       🎥 Anime / Mangá &nbsp; 📅 2022 &nbsp; 👍 85% &nbsp; 🕐 12 episode + 1 Movie<br>
@@ -172,7 +172,7 @@
 
    
 <tr>
-    <td><img src="./img/fv_animes/the_quintessencial.webp" width="60" height="80"></td>
+    <td><img src="./img/fv_animes/the_quintessencial.webp" width="60" height="75"></td>
     <td>
       <strong>The Quintessencial Quintuplets</strong><br>
       🎥 Anime / Mangá &nbsp; 📅 2019 &nbsp; 👍 81% &nbsp; 🕐 29 episodes + 1 Movie + 2 Specials<br>
@@ -188,7 +188,7 @@
 
 
 <tr>
-    <td><img src="./img/fv_animes/frieren.jpg" width="60" height="80" style="object-fit: cover;"></td>
+    <td><img src="./img/fv_animes/frieren.jpg" width="60" height="75" style="object-fit: cover;"></td>
     <td>
       <strong>Sōsō no Frieren</strong><br>
       🎥 Anime / Mangá &nbsp; 📅 2023 &nbsp; 👍 94% &nbsp; 🕐 28 episodes<br>
@@ -204,7 +204,7 @@
 
 
 <tr>
-    <td><img src="./img/fv_animes/konosuba.webp" width="60" height="80"></td>
+    <td><img src="./img/fv_animes/konosuba.webp" width="60" height="75"></td>
     <td>
       <strong>Kono Subarashii Sekai</strong><br>
       🎥 Anime / Mangá &nbsp; 📅 2016  &nbsp; 👍 84% &nbsp; 🕐 33 episodes + 1 Movie + 2 OVAs<br>
@@ -527,27 +527,27 @@
   <tr>
     <td align="center">
         <img src="./img/characters/friren/frieren.jpg" width="90" height="90" style="border-radius:50%; border:3px solid #B22222; object-fit:cover;"><br>
-    <sub><b>Frieren</b></sub>
+    <sub><b>Friren</b></sub>
     </td>
     <td align="center">
       <img src="./img/characters/friren/flamme.jpg" width="90" height="90" style="border-radius:50%; border:3px solid #B22222; object-fit:cover;"><br>
-      <sub><b>Flamme</b></sub>
+      <sub><b>flamme</b></sub>
     </td>
     <td align="center">
       <img src="./img/characters/friren/fern.jpg" width="90" height="90" style="border-radius:50%; border:3px solid #B22222; object-fit:cover;"><br>
-      <sub><b>Fern</b></sub>
+      <sub><b>fern</b></sub>
     </td>
     <td align="center">
       <img src="./img/characters/friren/stark.jpg" width="90" height="90" style="border-radius:50%; border:3px solid #B22222; object-fit:cover;"><br>
-      <sub><b>Stark</b></sub>
+      <sub><b>stark</b></sub>
     </td>
     <td align="center">
       <img src="./img/characters/friren/sense.jpg" width="90" height="90" style="border-radius:50%; border:3px solid #B22222; object-fit:cover;"><br>
-      <sub><b>Sense</b></sub>
+      <sub><b>sense</b></sub>
     </td>
     <td align="center">
       <img src="./img/characters/friren/methode.jpg" width="90" height="90" style="border-radius:50%; border:3px solid #B22222; object-fit:cover;"><br>
-      <sub><b>Methode</b></sub>
+      <sub><b>methode</b></sub>
     </td>
   </tr>
 </table>
