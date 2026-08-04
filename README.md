@@ -140,7 +140,7 @@
 
    
 <tr>
-    <td><img src="./img/fv_animes/evangelion.jpg" width="60" height="75"></td>
+    <td><img src="./img/fv_animes/evangelion.jpeg" width="60" height="75"></td>
     <td>
       <strong>Evangelion</strong><br>
       🎥 Anime / Mangá &nbsp; 📅 1995 &nbsp; 👍 83% &nbsp; 🕐 26 episodes + 5 Movie<br>
