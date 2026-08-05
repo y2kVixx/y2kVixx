@@ -10,7 +10,10 @@
 
 > 💡 **Nota de Uso:** Este modelo de README é de uso livre, desde que os créditos ao autor original ([@y2kVixx](https://github.com/y2kVixx)) sejam mantidos.
 
----
+
+
+
+<!----------------------------- --------------------------------------->
 
 
 
@@ -20,13 +23,9 @@
 
 
 
-
-
-
-<div data-importer="image" align="center">
-  <img src="./img/capas/banner1.jfif" width="760" height="300" style="border-radius: 10px; object-fit: cover;" /> 
+<div data-importer="image" align="center" style="border-radius: 12px; overflow: hidden; width: fit-content; margin: 0 auto;">
+  <img src="./img/capas/banner1.jfif" width="760" height="300" style="display: block;" />
 </div>
-
 
 
 
