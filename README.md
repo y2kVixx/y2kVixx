@@ -531,23 +531,23 @@
     </td>
     <td align="center">
       <img src="./img/characters/friren/flamme.jpg" width="90" height="90" style="border-radius:50%; border:3px solid #B22222; object-fit:cover;"><br>
-      <sub><b>flamme</b></sub>
+      <sub><b>Flamme</b></sub>
     </td>
     <td align="center">
       <img src="./img/characters/friren/fern.jpg" width="90" height="90" style="border-radius:50%; border:3px solid #B22222; object-fit:cover;"><br>
-      <sub><b>fern</b></sub>
+      <sub><b>Fern</b></sub>
     </td>
     <td align="center">
       <img src="./img/characters/friren/stark.jpg" width="90" height="90" style="border-radius:50%; border:3px solid #B22222; object-fit:cover;"><br>
-      <sub><b>stark</b></sub>
+      <sub><b>Stark</b></sub>
     </td>
     <td align="center">
       <img src="./img/characters/friren/sense.jpg" width="90" height="90" style="border-radius:50%; border:3px solid #B22222; object-fit:cover;"><br>
-      <sub><b>sense</b></sub>
+      <sub><b>Sense</b></sub>
     </td>
     <td align="center">
       <img src="./img/characters/friren/methode.jpg" width="90" height="90" style="border-radius:50%; border:3px solid #B22222; object-fit:cover;"><br>
-      <sub><b>methode</b></sub>
+      <sub><b>Methode</b></sub>
     </td>
   </tr>
 </table>
