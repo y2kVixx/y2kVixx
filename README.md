@@ -24,7 +24,7 @@
 
 
 <div data-importer="image" align="center">
-  <img src="./img/capas/banner1.jfif" width="760" height="300" /> 
+  <img src="./img/capas/banner1.jfif" width="760" height="300" style="border-radius: 10px; object-fit: cover;" /> 
 </div>
 
 
