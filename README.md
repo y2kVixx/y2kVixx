@@ -13,7 +13,7 @@
 
 
 
-<!----------------------------- --------------------------------------->
+<!----------------------------------------------------------------- ------------------------------------------------------------>
 
 
 
@@ -24,7 +24,7 @@
 
 
 <div data-importer="image" align="center" style="border-radius: 12px; overflow: hidden; width: fit-content; margin: 0 auto;">
-  <img src="./img/capas/banner1.jfif" width="760" height="300" style="display: block;" />
+  <img src="https://w.wallhaven.cc/full/85/wallhaven-852k6j.jpg" width="760" height="300" style="display: block;" />
 </div>
 
 
@@ -103,7 +103,7 @@
 
 
 <p align="center">
-<img src="./img/capas/banner2.gif" width="600" height="175" alt=" ">
+<img src="https://i.pinimg.com/originals/b1/89/92/b189922eab130325a3995bfa1a3021eb.gif" width="600" height="175" alt=" ">
 <p>
 
 <h2 class="sideheader"></h2>
@@ -620,7 +620,7 @@
 
 <p align="center">
    
- <img src="./img/capas/banner3.jfif" width="600" height="175" alt=" "> 
+ <img src="https://i.pinimg.com/736x/d3/d8/7b/d3d87b7ee43338205320f0b8f205a295.jpg" width="600" height="175" alt=" "> 
 <p>
 
 <h2 class="sideheader"></h2>
