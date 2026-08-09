@@ -75,7 +75,6 @@
 <a href="https://yourgamerprofile.com/LKK" target="_blank"><img src="./img/me/yourgameprofile.png" height="40" alt="YourGameProfile logo" /></a> &nbsp;&nbsp;
 <a href="https://discord.gg/wny2E3yu" target="_blank"><img src="./img/me/discord.svg" height="40" alt="Discord logo" /></a>
 
-<br>
 
  <!-- <div style="display: flex; align-items: center; gap: 15px;">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=y2kVixx&layout=compact&bg_color=0f0a17&border_color=361261&title_color=abaaad&text_color=ccc9d1&border_radius=20&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" style="border-radius: 20px; box-shadow: 0 0 12px #ff6cbe;" />
