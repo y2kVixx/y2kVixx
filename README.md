@@ -315,11 +315,10 @@ offline statistics
 </div>
 
 <table>
-
 <br>
-   
+
   <tr>
-    <td><img src="./img/fv_manga/chainsaw-man.jfif" width="60" height="75"></td>
+    <td><img src="./img/fv_manga/chainsaw-man.jfif" width="80" height="100"></td>
     <td>
       <strong>Chainsaw Man</strong><br>
       🎥 Anime / Mangá &nbsp; 📅 2022 &nbsp; 👍 85% &nbsp; 🕐 232 Chapter <br>
@@ -328,13 +327,13 @@ offline statistics
   </tr>
 
 
-
-<!------------------- ----------------------->
+  
+<!------------------------------------------------------------------------------------------------>
 
 
 
   <tr>
-    <td><img src="./img/fv_manga/tokyo-ghoul.jpg" width="60" height="75"></td>
+    <td><img src="./img/fv_manga/tokyo-ghoul.jpg" width="80" height="100"></td>
     <td>
       <strong>Toyko Ghoul</strong><br>
       🎥 Anime / Mangá &nbsp; 📅 2014 &nbsp; 👍 85% &nbsp; 🕐 143 Chapter <br>
@@ -343,13 +342,13 @@ offline statistics
   </tr>
 
 
-
-<!------------------- ----------------------->
+  
+<!------------------------------------------------------------------------------------------------>
 
 
 
    <tr>
-    <td><img src="./img/fv_manga/one-puch-man.jfif" width="60" height="75"></td>
+    <td><img src="./img/fv_manga/one-puch-man.jfif" width="80" height="100"></td>
     <td>
       <strong>One Punch Man</strong><br>
       🎥 Anime / Mangá &nbsp; 📅 2012 &nbsp; 👍 89% &nbsp; 🕐 200+ Chapter <br>
@@ -358,13 +357,13 @@ offline statistics
   </tr>
 
 
-
-<!------------------- ----------------------->
+  
+<!------------------------------------------------------------------------------------------------>
 
 
 
 <tr>
-  <td><img src="./img/fv_manga/evangelion.jfif" width="60" height="75"></td>
+  <td><img src="./img/fv_manga/evangelion.jfif" width="80" height="100"></td>
   <td>
     <strong>Neon Genesis Evangelion</strong><br>
     🎥 Anime / Mangá &nbsp; 📅 1994 &nbsp; 👍 88% &nbsp; 🕐 96 Chapter <br>
@@ -374,12 +373,12 @@ offline statistics
 
 
 
-<!------------------- ----------------------->
+<!------------------------------------------------------------------------------------------------>
 
 
 
 <tr>
-  <td><img src="./img/fv_manga/emanon.jfif" width="60" height="75"></td>
+  <td><img src="./img/fv_manga/emanon.jfif" width="80" height="100"></td>
   <td>
     <strong>Omoide Emano (Memories of Emanon)</strong><br>
     🎥 Mangá &nbsp; 📅 2008 &nbsp; 👍 83% &nbsp; 🕐 9 Chapter <br>
@@ -389,12 +388,12 @@ offline statistics
 
 
 
-<!------------------- ----------------------->
+<!------------------------------------------------------------------------------------------------>
 
 
 
 <tr>
-  <td><img src="./img/fv_manga/100-elf.jfif" width="60" height="75"></td>
+  <td><img src="./img/fv_manga/100-elf.jfif" width="80" height="100"></td>
   <td>
     <strong>100-nen Ryuunen Shiteru Elf</strong><br>
     🎥 Mangá &nbsp; 📅 2026 &nbsp; 👍 80% &nbsp; 🕐 2+ Chapter (Ainda Sendo Escrito) <br>
@@ -404,20 +403,18 @@ offline statistics
 
 
 
-<!------------------- ----------------------->
+<!------------------------------------------------------------------------------------------------>
 
 
 
 <tr>
-  <td><img src="./img/fv_manga/look_back.jfif" width="60" height="75"></td>
+  <td><img src="./img/fv_manga/look_back.jfif" width="80" height="100"></td>
   <td>
     <strong>Look Back</strong><br>
     🎥 Filme / Mangá &nbsp; 📅 2021 &nbsp; 👍 92% &nbsp; 🕐 1 Chapter  (One Shot) <br>
     🏷️ Drama, Slice of Life, Arte, Psicológico.<br>
   </td>
 </tr>
-
-
   </table>
 <br>
 
