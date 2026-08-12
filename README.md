@@ -135,112 +135,168 @@ offline statistics
 🎥 + 10.000K minutes watched and read &nbsp;  
 
 
- <h1> ୨🖳୧ ⋅ Favorites Animes </h1>    <!--   📽   -->
+<div align="center">
 
-<table>
+# ୨🖳୧ Favorite Animes
+
+
+</div>
+
+
 
 <br>
 
 
 
-<!------------------------------------------>
+<!-- ====================================================================================================================================================== -->
 
 
-   
+
+
+
+
+<h3 id="evangelion">Evangelion</h3>
+<table width="100%">
 <tr>
-    <td><img src="./img/fv_animes/evangelion.jpeg" width="60" height="75"></td>
-    <td>
-      <strong>Evangelion</strong><br>
-      🎥 Anime / Mangá &nbsp; 📅 1995 &nbsp; 👍 83% &nbsp; 🕐 26 episodes + 5 Movie<br>
-      🏷️ Mecha, Ficção Científica, Drama Psicológico, Pós-Apocalíptico.<br>
-      <small>Jovens pilotam os Evangelions para enfrentar os Anjos e impedir a destruição da humanidade.</small>
-    </td>
+<td width="130" align="center">
+  <img src="./img/fv_animes/evangelion.jpeg" width="110" style="border-radius:8px">
+</td>
+<td valign="top">
+
+![Anime](https://img.shields.io/badge/Anime_%2F_Mangá-0D1117?style=flat-square) ![Ano](https://img.shields.io/badge/1995-0D1117?style=flat-square) ![Ep](https://img.shields.io/badge/26_ep_%2B_5_filmes-0D1117?style=flat-square)
+
+★★★★☆ &nbsp; <img src="https://img.shields.io/badge/83%25-0D1117?style=flat-square&labelColor=0D1117" height="20" alt="83%">
+
+`Mecha` `Ficção Científica` `Drama Psicológico` `Pós-Apocalíptico`
+
+> Jovens pilotam os Evangelions para enfrentar os Anjos e impedir a destruição da humanidade.
+
+</td>
 </tr>
-
-
-
-<!------------------------------------------>
-
-
-
-<tr>
-    <td><img src="./img/fv_animes/chainsaw-man.jpg" width="60" height="75"></td>
-    <td>
-      <strong>Chainsaw Man</strong><br>
-      🎥 Anime / Mangá &nbsp; 📅 2022 &nbsp; 👍 85% &nbsp; 🕐 12 episode + 1 Movie<br>
-      🏷️ Ação, Fantasia Sombria, Gore, Comédia Ácida.<br>
-      <small>Denji vira o híbrido Chainsaw Man após se fundir com Pochita para caçar demônios para o governo.</small>
-    </td>
-</tr>
-
-
-
-<!------------------------------------------>
-
-
-   
-<tr>
-    <td><img src="./img/fv_animes/the_quintessencial.webp" width="60" height="75"></td>
-    <td>
-      <strong>The Quintessencial Quintuplets</strong><br>
-      🎥 Anime / Mangá &nbsp; 📅 2019 &nbsp; 👍 81% &nbsp; 🕐 29 episodes + 1 Movie + 2 Specials<br>
-      🏷️ Comédia Romântica, Harém, Escolar.<br>
-      <small>Fuutarou se torna tutor de cinco irmãs gêmeas e, entre estudos e romance, muda a vida de todas.</small>
-    </td>
-</tr>
-
-
-
-<!------------------------------------------>
-
-
-
-<tr>
-    <td><img src="./img/fv_animes/frieren.jpg" width="60" height="75" style="object-fit: cover;"></td>
-    <td>
-      <strong>Sōsō no Frieren</strong><br>
-      🎥 Anime / Mangá &nbsp; 📅 2023 &nbsp; 👍 94% &nbsp; 🕐 28 episodes<br>
-      🏷️ Aventura, Drama, Fantasia.<br>
-      <small>Frieren viaja para entender a humanidade após a morte do herói Himmel.</small>
-    </td>
-</tr>
-
-
-
-<!------------------------------------------>
-
-
-
-<tr>
-    <td><img src="./img/fv_animes/konosuba.webp" width="60" height="75"></td>
-    <td>
-      <strong>Kono Subarashii Sekai</strong><br>
-      🎥 Anime / Mangá &nbsp; 📅 2016  &nbsp; 👍 84% &nbsp; 🕐 33 episodes + 1 Movie + 2 OVAs<br>
-      🏷️ Comédia, Fantasia e Isekai.<br>
-      <small>Kazuma renasce em um mundo de fantasia e vive aventuras caóticas com um grupo excêntrico.</small>
-    </td>
-</tr>
-
-
-
-
-
-
-<!-------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-
-
-  
 </table>
 
+<div align="center"><img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&labelColor=0D1117&color=0D1117" width="60%" height="1" alt=""></div>
 
+
+
+<!-- ======================================================================================================================== -->
+
+
+
+<h3 id="chainsaw-man">Chainsaw Man</h3>
+<table width="100%">
+<tr>
+<td valign="top">
+
+![Anime](https://img.shields.io/badge/Anime_%2F_Mangá-0D1117?style=flat-square) ![Ano](https://img.shields.io/badge/2022-0D1117?style=flat-square) ![Ep](https://img.shields.io/badge/12_ep_%2B_1_filme-0D1117?style=flat-square)
+
+★★★★☆ &nbsp; <img src="https://img.shields.io/badge/85%25-0D1117?style=flat-square&labelColor=0D1117" height="20" alt="85%">
+
+`Ação` `Fantasia Sombria` `Gore` `Comédia Ácida`
+
+> Denji vira o híbrido Chainsaw Man após se fundir com Pochita para caçar demônios para o governo.
+
+</td>
+<td width="130" align="center">
+  <img src="./img/fv_animes/chainsaw-man.jpg" width="110" style="border-radius:8px">
+</td>
+</tr>
+</table>
+
+<div align="center"><img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&labelColor=0D1117&color=0D1117" width="60%" height="1" alt=""></div>
+
+
+
+
+<!-- =========================================================================================================================================================== -->
+
+
+
+<h3 id="the-quintessential-quintuplets">The Quintessential Quintuplets</h3>
+<table width="100%">
+<tr>
+<td width="130" align="center">
+  <img src="./img/fv_animes/the_quintessencial.webp" width="110" style="border-radius:8px">
+</td>
+<td valign="top">
+
+![Anime](https://img.shields.io/badge/Anime_%2F_Mangá-0D1117?style=flat-square) ![Ano](https://img.shields.io/badge/2019-0D1117?style=flat-square) ![Ep](https://img.shields.io/badge/29_ep_%2B_1_filme_%2B_2_specials-0D1117?style=flat-square)
+
+★★★★☆ &nbsp; <img src="https://img.shields.io/badge/81%25-0D1117?style=flat-square&labelColor=0D1117" height="20" alt="81%">
+
+`Comédia Romântica` `Harém` `Escolar`
+
+> Fuutarou se torna tutor de cinco irmãs gêmeas e, entre estudos e romance, muda a vida de todas.
+
+</td>
+</tr>
+</table>
+
+<div align="center"><img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&labelColor=0D1117&color=0D1117" width="60%" height="1" alt=""></div>
+
+<!-- ================================================== -->
+<h3 id="sōsō-no-frieren">Sōsō no Frieren</h3>
+<table width="100%">
+<tr>
+<td valign="top">
+
+![Anime](https://img.shields.io/badge/-Anime_%2F_Mangá-0D1117?style=flat-square) ![Ano](https://img.shields.io/badge/2023-0D1117?style=flat-square) ![Ep](https://img.shields.io/badge/28_episódios-0D1117?style=flat-square)
+
+★★★★★ &nbsp; <img src="https://img.shields.io/badge/94%25-0D1117?style=flat-square&labelColor=0D1117" height="20" alt="94%">
+
+`Aventura` `Drama` `Fantasia`
+
+> Frieren viaja para entender a humanidade após a morte do herói Himmel.
+
+</td>
+<td width="130" align="center">
+  <img src="./img/fv_animes/frieren.jpg" width="110" style="border-radius:8px">
+</td>
+</tr>
+</table>
+
+<div align="center"><img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&labelColor=0D1117&color=0D1117" width="60%" height="1" alt=""></div>
+
+
+
+<!-- =========================================================================================================================================================== -->
+
+
+
+<h3 id="kono-subarashii-sekai">Kono Subarashii Sekai ni Shukufuku wo!</h3>
+<table width="100%">
+<tr>
+<td width="130" align="center">
+  <img src="./img/fv_animes/konosuba.webp" width="110" style="border-radius:8px">
+</td>
+<td valign="top">
+
+![Anime](https://img.shields.io/badge/-Anime_%2F_Mangá-0D1117?style=flat-square) ![Ano](https://img.shields.io/badge/2016-0D1117?style=flat-square) ![Ep](https://img.shields.io/badge/33_ep_%2B_1_filme_%2B_2_OVAs-0D1117?style=flat-square)
+
+★★★★☆ &nbsp; <img src="https://img.shields.io/badge/84%25-0D1117?style=flat-square&labelColor=0D1117" height="20" alt="84%">
+
+`Comédia` `Fantasia` `Isekai`
+
+> Kazuma renasce em um mundo de fantasia e vive aventuras caóticas com um grupo excêntrico.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<h2 class="sideheader"></h2>
+
+</div>
+
+<br>
 
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 
 
-
+<br>
 
 <h2 class="sideheader"></h2>
 
