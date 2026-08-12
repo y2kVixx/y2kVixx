@@ -309,7 +309,7 @@ offline statistics
 
 <div align="center">
 
-# ୨🖳୧ Favorite Animes
+# ୨🖳୧ Favorite Mangás
 
 
 </div>
