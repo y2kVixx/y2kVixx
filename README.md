@@ -309,7 +309,7 @@ offline statistics
 
 <div align="center">
 
-# ୨🖳୧ Favorite Mangás
+# ୨🕮୧ ⋅ Favorites Mangás
 
 
 </div>
