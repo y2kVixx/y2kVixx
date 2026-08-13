@@ -452,7 +452,7 @@ offline statistics
 
 <p align="center">
   <a href="https://www.imdb.com/pt/title/tt0112159/?ref_=nv_sr_srsg_1_tt_7_nm_0_in_1_q_evangelion" target="_self">
-    <img src="https://img.shields.io/badge/Evangelion-4169E1?style=for-the-badge&labelColor=1a1a1a">
+    <img src="https://img.shields.io/badge/Evangelion-1f252d?style=for-the-badge&labelColor=0d1117">
   </a>
 </p>
 
@@ -503,7 +503,7 @@ offline statistics
 
 <p align="center">
   <a href="https://www.imdb.com/pt/title/tt13616990/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_chainsaw%20man" target="_self">
-    <img src="https://img.shields.io/badge/Chainsaw_Man-B22222?style=for-the-badge&labelColor=1a1a1a">
+    <img src="https://img.shields.io/badge/Chainsaw_Man-1f252d?style=for-the-badge&labelColor=1a1a1a">
   </a>
 </p>
 
@@ -558,7 +558,7 @@ offline statistics
 
 <p align="center">
   <a href="https://www.imdb.com/pt/title/tt9584920/?ref_=nv_sr_srsg_0_tt_5_nm_3_in_0_q_the%20quinte" target="_self">
-    <img src="https://img.shields.io/badge/The_Quintessential_Quintuplets-FF69B4?style=for-the-badge&labelColor=1a1a1a">
+    <img src="https://img.shields.io/badge/The_Quintessential_Quintuplets-1f252d?style=for-the-badge&labelColor=1a1a1a">
   </a>
 </p>
 
@@ -608,7 +608,7 @@ offline statistics
 
 <p align="center">
   <a href="https://www.imdb.com/pt/title/tt9584920/?ref_=nv_sr_srsg_0_tt_5_nm_3_in_0_q_the%20quinte" target="_self">
-    <img src="https://img.shields.io/badge/Sōsō no Frieren-cadbd9?style=for-the-badge&labelColor=1a1a1a">
+    <img src="https://img.shields.io/badge/Sōsō no Frieren-1f252d?style=for-the-badge&labelColor=1a1a1a">
   </a>
 </p>
 
@@ -656,7 +656,7 @@ offline statistics
 
    <p align="center">
   <a href="https://www.imdb.com/pt/title/tt5370118/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_kono" target="_self">
-    <img src="https://img.shields.io/badge/KONOSUBA-FFD700?style=for-the-badge&labelColor=1a1a1a">
+    <img src="https://img.shields.io/badge/KONOSUBA-1f252d?style=for-the-badge&labelColor=1a1a1a">
   </a>
 </p>
 
