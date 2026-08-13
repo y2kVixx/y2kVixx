@@ -52,9 +52,19 @@ def fetch_activity(username, days_back):
             API_URL,
             data=payload,
             headers={
-                "Content-Type": "application/json",
-                "Accept": "application/json",
-            },
+    "Content-Type": "application/json",
+    "Accept": "application/json",
+    "User-Agent": "Mozilla/5.0 (compatible; anime-heatmap-bot/1.0)",
+},
+Commit changes.
+Vá em Actions → "Atualizar heatmap de anime/mangá" → Run workflow de novo.
+Se der outro erro, manda o print igual fez agora que eu resolvo.
+
+
+Generate heatmap
+PY 
+
+
             method="POST",
         )
 
