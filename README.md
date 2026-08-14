@@ -69,11 +69,11 @@
 <h2 class="sideheader">Sobre Mim ⤸</h2>
 
 <a href="https://br.pinterest.com/lucassantosoliveira856/_profile/" target="_blank"><img src="./img/me/Pinterest.svg.webp" height="40" alt="Pinterest logo" /></a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/y2k_.vixx?igsh=ZGk1MmNoNWNhZWhw" target="_blank"><img src="./img/me/instagram.svg" height="40" alt="Instagram logo" /></a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/y2k_.vixx?igsh=ZGk1MmNoNWNhZWhw" target="_blank"><img src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" height="40" alt="Instagram logo" /></a> &nbsp;&nbsp;
 <a href="https://www.reddit.com/user/nsbrwjejs/" target="_blank"><img src="./img/me/reddit-icon.webp" height="40" alt="Reddit logo" /></a> &nbsp;&nbsp;
 <a href="https://www.tiktok.com/@y2k.lucasx7" target="_blank"><img src="./img/me/tiktok-rounded-square-icon.webp" height="40" alt="TikTok logo" /></a> &nbsp;&nbsp;
 <a href="https://yourgamerprofile.com/LKK" target="_blank"><img src="./img/me/yourgameprofile.png" height="40" alt="YourGameProfile logo" /></a> &nbsp;&nbsp;
-<a href="https://discord.gg/wny2E3yu" target="_blank"><img src="./img/me/discord.svg" height="40" alt="Discord logo" /></a>
+<a href="https://discord.gg/wny2E3yu" target="_blank"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="40" alt="Discord logo" /></a>
 
 
  <!-- <div style="display: flex; align-items: center; gap: 15px;">
