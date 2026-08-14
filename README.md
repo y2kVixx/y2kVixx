@@ -45,7 +45,7 @@
 
 
 <div data-importer="techs" align="center">
-  <img src="./img/ling-tools/vscode.svg" height="40" alt="vscode logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/960px-Visual_Studio_Code_1.35_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20210804221519" height="40" alt="vscode logo"  />
   <img width="12" />
    
   <img src="./img/ling-tools/html5.svg" height="40" alt="html5 logo"  />
@@ -54,7 +54,7 @@
   <img src="./img/ling-tools/css.svg" height="40" alt="css logo"  />
   <img width="12" />
    
-  <img src="./img/ling-tools/lua.svg" height="40" alt="lua logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/960px-Lua-Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20150107024942" height="40" alt="lua logo"  />
    
   <img src="./img/ling-tools/gimp.svg.webp" height="40" alt="gimp logo"  />
   <img width="12" />
