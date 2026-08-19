@@ -445,7 +445,7 @@ offline statistics
 
 
 
-<h1 align="center"> 𓆩❤︎𓆪 Favorite Characters  </h1>
+<h1 align="center"> -` ❤︎ ´-  Favorite Characters  </h1>
 
 
 
