@@ -530,8 +530,8 @@ offline statistics
       <sub><b>Fami</b></sub>
     </td>
     <td align="center">
-      <img src="./img/characters/chainsaw-man/quanxi.jpg" width="90" height="90" style="border-radius:50%; border:3px solid #B22222; object-fit:cover;"><br>
-      <sub><b>Quanxi</b></sub>
+      <img src="./img/characters/chainsaw-man/fumiko.jpg" width="90" height="90" style="border-radius:50%; border:3px solid #B22222; object-fit:cover;"><br>
+      <sub><b>Fumiko</b></sub>
     </td>
   </tr>
 </table>
