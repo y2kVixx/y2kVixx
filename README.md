@@ -73,7 +73,8 @@
 <a href="https://www.reddit.com/user/nsbrwjejs/" target="_blank"><img src="./img/me/reddit-icon.webp" height="40" alt="Reddit logo" /></a> &nbsp;&nbsp;
 <a href="https://www.tiktok.com/@y2k.lucasx7" target="_blank"><img src="./img/me/tiktok-rounded-square-icon.webp" height="40" alt="TikTok logo" /></a> &nbsp;&nbsp;
 <a href="https://yourgamerprofile.com/LKK" target="_blank"><img src="./img/me/yourgameprofile.png" height="40" alt="YourGameProfile logo" /></a> &nbsp;&nbsp;
-<a href="https://discord.gg/wny2E3yu" target="_blank"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="40" alt="Discord logo" /></a>
+<a href="https://discord.gg/wny2E3yu" target="_blank"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="40" alt="Discord logo" /></a> &nbsp;&nbsp;
+<h3>https://linktr.ee/ASKAzzz</h3>
 
 
  <!-- <div style="display: flex; align-items: center; gap: 15px;">
